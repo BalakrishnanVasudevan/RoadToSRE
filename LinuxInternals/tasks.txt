@@ -1,0 +1,10 @@
+Books/Articles to read to prepare for the Linux Internals interview
+
+I need to understand how Linux boots, how a process is created, how process and memory are managed.
+
+Books to read:
+1) Linux Kernel Developement by Robert Love
+2) The Linux Programming Interface by Michael Kerrisk
+
+Other articles that I have found to be really interesting/helpful,
+1) https://lwn.net/Articles/250967/
